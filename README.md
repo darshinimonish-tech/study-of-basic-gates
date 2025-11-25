@@ -70,6 +70,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
  RegisterNumber: 25017318
 
+ 
+```
   assign and_out  = a & b;   // AND gate
  assign or_out   = a | b;   // OR gate
  assign not_out  = ~a;      
@@ -79,7 +81,9 @@ assign nand_out = ~(a & b);// NAND gate
  assign xor_out  = a ^ b;   // XOR gate
  assign xnor_out = ~(a ^ b);// XNOR gate
  endmodule**
- 
+
+
+ ```
 Logic symbol & Truthtable
 
 **RTL realization Output:
