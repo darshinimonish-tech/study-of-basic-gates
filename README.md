@@ -84,9 +84,12 @@ assign nand_out = ~(a & b);// NAND gate
 
 
  ```
-Logic symbol & Truthtable
+Logic symbol & Truthtable:
 
-**RTL realization Output:
+![WhatsApp Image 2025-11-26 at 20 12 23_620ae34e](https://github.com/user-attachments/assets/5d1b8823-6501-4b9e-b7b2-c8eee87a146a)
+
+
+RTL realization Output:
 
 
 
