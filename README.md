@@ -90,15 +90,18 @@ endmodule
 ```
  Developed by:TAZEEM R RegisterNumber:25012330 
  
-**Logic symbol & Truthtable**
-![Uploading image.png…]()
+Logic symbol & Truthtable:
 
-**RTL realization Output:** 
+
+![WhatsApp Image 2025-11-26 at 20 12 23_94adb981](https://github.com/user-attachments/assets/11b95475-5acf-4dad-83e6-602f214b0cc8)
+
+
+RTL realization Output:
 <img width="910" height="546" alt="image" src="https://github.com/user-attachments/assets/1dd518e8-d9e7-41b3-984b-1e69a8938e7f" />
 
-**RTL**
+RTL
 <img width="983" height="295" alt="image" src="https://github.com/user-attachments/assets/d344e25a-b575-4f02-a7d0-c02d671e7b8d" />
 
-**Result:**
+Result:
 thus  the truth table of logic gates in Quartus II using Verilog programming.
 
